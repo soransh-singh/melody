@@ -33,6 +33,9 @@ from pygame import mixer
 from mutagen.mp3 import MP3
 import time
 import threading
+
+
+
 # to setup a screen
 root = tk.ThemedTk() # set up main screen
 
@@ -49,6 +52,7 @@ global paused
 paused = False
 # Creating and configuring menubar
 
+playlist = []
 
 def show_detail():
     file_data = os.path.splitext(filename)
@@ -83,7 +87,6 @@ def start_count(t):
             count += 1
 
 
-playlist = []
 
 def open_btn():
     global filename

@@ -1,6 +1,7 @@
 # Melody
 
-A Music Player build in  Python using ```tkinter ``` and ```pygame``` libraries.
+![Screenshot](./melody.png)
+A Music Player build in Python using ```tkinter ``` and ```pygame``` libraries.
 
 ## Pygame
 
