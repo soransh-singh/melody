@@ -1,6 +1,6 @@
 # Melody
 
-![Screenshot](./melody.png)
+![Screenshot](https://res.cloudinary.com/dglvdh0mz/image/upload/f_auto,q_auto/v1/github%20container/acefssgsvqywx8ts8yfy)
 A Music Player build in Python using ```tkinter ``` and ```pygame``` libraries.
 
 ## Pygame
